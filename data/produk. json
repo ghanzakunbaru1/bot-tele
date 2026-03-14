@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "Contoh Produk",
+    "price": 25000,
+    "type": "link",
+    "content": "https://example.com",
+    "description": "Deskripsi produk",
+    "created_at": "2024-01-01T00:00:00.000Z"
+  }
+]
